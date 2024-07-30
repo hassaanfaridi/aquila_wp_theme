@@ -17,3 +17,12 @@ img {
 .updated:not(.published) {
     display: none;
 }
+
+nav-items:hover .dropdown-menu:not(.show) {
+    display: block;
+}
+
+.page-numbers.curreent > span {
+    background-color: grey;
+    color: #fff;
+}

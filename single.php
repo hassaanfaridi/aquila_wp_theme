@@ -62,7 +62,7 @@ get_header();
 
 			endif;
 
-			// aquila_pagination();
+			aquila_pagination();
 			?>
 		</main>
 	</div>
